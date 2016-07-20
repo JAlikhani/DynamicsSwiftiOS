@@ -8,20 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		FB6A3E9E1D3868400082EB7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6A3E9D1D3868400082EB7B /* AppDelegate.swift */; };
-		FB6A3EA01D3868400082EB7B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6A3E9F1D3868400082EB7B /* ViewController.swift */; };
+		FB6A3EA01D3868400082EB7B /* MinionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6A3E9F1D3868400082EB7B /* MinionViewController.swift */; };
 		FB6A3EA31D3868400082EB7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB6A3EA11D3868400082EB7B /* Main.storyboard */; };
 		FB6A3EA51D3868400082EB7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB6A3EA41D3868400082EB7B /* Assets.xcassets */; };
 		FB6A3EA81D3868400082EB7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB6A3EA61D3868400082EB7B /* LaunchScreen.storyboard */; };
+		FB6A3EB71D387C380082EB7B /* Images in Resources */ = {isa = PBXBuildFile; fileRef = FB6A3EB61D387C380082EB7B /* Images */; };
+		FB7379CD1D3F13A4007DB195 /* DropMinionBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7379CC1D3F13A3007DB195 /* DropMinionBehavior.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		FB6A3E9A1D3868400082EB7B /* DynamicsSwiftiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DynamicsSwiftiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB6A3E9D1D3868400082EB7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FB6A3E9F1D3868400082EB7B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FB6A3E9F1D3868400082EB7B /* MinionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinionViewController.swift; sourceTree = "<group>"; };
 		FB6A3EA21D3868400082EB7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FB6A3EA41D3868400082EB7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB6A3EA71D3868400082EB7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB6A3EA91D3868400082EB7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB6A3EB61D387C380082EB7B /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
+		FB7379CC1D3F13A3007DB195 /* DropMinionBehavior.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DropMinionBehavior.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,8 +58,10 @@
 		FB6A3E9C1D3868400082EB7B /* DynamicsSwiftiOS */ = {
 			isa = PBXGroup;
 			children = (
+				FB6A3EB61D387C380082EB7B /* Images */,
 				FB6A3E9D1D3868400082EB7B /* AppDelegate.swift */,
-				FB6A3E9F1D3868400082EB7B /* ViewController.swift */,
+				FB6A3E9F1D3868400082EB7B /* MinionViewController.swift */,
+				FB7379CC1D3F13A3007DB195 /* DropMinionBehavior.swift */,
 				FB6A3EA11D3868400082EB7B /* Main.storyboard */,
 				FB6A3EA41D3868400082EB7B /* Assets.xcassets */,
 				FB6A3EA61D3868400082EB7B /* LaunchScreen.storyboard */,
@@ -122,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB6A3EB71D387C380082EB7B /* Images in Resources */,
 				FB6A3EA81D3868400082EB7B /* LaunchScreen.storyboard in Resources */,
 				FB6A3EA51D3868400082EB7B /* Assets.xcassets in Resources */,
 				FB6A3EA31D3868400082EB7B /* Main.storyboard in Resources */,
@@ -135,7 +142,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB6A3EA01D3868400082EB7B /* ViewController.swift in Sources */,
+				FB6A3EA01D3868400082EB7B /* MinionViewController.swift in Sources */,
+				FB7379CD1D3F13A4007DB195 /* DropMinionBehavior.swift in Sources */,
 				FB6A3E9E1D3868400082EB7B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +294,7 @@
 				FB6A3EAE1D3868400082EB7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

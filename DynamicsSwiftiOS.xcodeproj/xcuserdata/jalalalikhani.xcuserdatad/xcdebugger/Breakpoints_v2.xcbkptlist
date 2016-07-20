@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicsSwiftiOS/ViewController.swift"
+            timestampString = "490672803.731602"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "tappedMinion(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DynamicsSwiftiOS/ViewController.swift"
+            timestampString = "490672803.731602"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "snap"
+            landmarkType = "19">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DynamicsSwiftiOS.ViewController.snap.getter : __ObjC.UISnapBehavior"
+                  moduleName = "DynamicsSwiftiOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jalalalikhani/Documents/iOS%20Program/DynamicsSwiftiOS/DynamicsSwiftiOS/ViewController.swift"
+                  timestampString = "490671163.616419"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "254">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DynamicsSwiftiOS.ViewController.snap.setter : __ObjC.UISnapBehavior"
+                  moduleName = "DynamicsSwiftiOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jalalalikhani/Documents/iOS%20Program/DynamicsSwiftiOS/DynamicsSwiftiOS/ViewController.swift"
+                  timestampString = "490671163.616538"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DynamicsSwiftiOS.ViewController.init (DynamicsSwiftiOS.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; DynamicsSwiftiOS.ViewController"
+                  moduleName = "DynamicsSwiftiOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jalalalikhani/Documents/iOS%20Program/DynamicsSwiftiOS/DynamicsSwiftiOS/ViewController.swift"
+                  timestampString = "490671163.616639"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "189">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DynamicsSwiftiOS.ViewController.init (DynamicsSwiftiOS.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;DynamicsSwiftiOS.ViewController&gt;"
+                  moduleName = "DynamicsSwiftiOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jalalalikhani/Documents/iOS%20Program/DynamicsSwiftiOS/DynamicsSwiftiOS/ViewController.swift"
+                  timestampString = "490671163.616756"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DynamicsSwiftiOS.ViewController.(snap.getter : __ObjC.UISnapBehavior).(closure #1)"
+                  moduleName = "DynamicsSwiftiOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jalalalikhani/Documents/iOS%20Program/DynamicsSwiftiOS/DynamicsSwiftiOS/ViewController.swift"
+                  timestampString = "490671163.616877"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "3">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
